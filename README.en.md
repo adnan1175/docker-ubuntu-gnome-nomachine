@@ -1,4 +1,4 @@
-Sure! Here's the translated version of the document into English:
+
 
 # Ubuntu 18.04/20.04 with Gnome and NoMachine Desktop
 
